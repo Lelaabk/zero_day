@@ -1,7 +1,7 @@
 # Hello world!
 
 **What is HTML?**
- [HTML]: Hypertext Markup Language
+ *[HTML] : Hypertext Markup Language
 
 
 *The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser*
